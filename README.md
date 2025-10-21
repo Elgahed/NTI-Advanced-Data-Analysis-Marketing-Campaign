@@ -1,2 +1,2 @@
 # NTI-Advanced-Data-Analysis-Marketing-Campaign
-Advanced Data Analysis project using Marketing_Campaign_Dataset. Includes data cleaning with Python &amp; SQL, EDA, customer segmentation, predictive modeling (Logistic Regression, Decision Trees, Random Forest), and interactive Power BI dashboard.
+Conducted comprehensive data analysis using Python and SQL, including data cleaning, exploratory data analysis (EDA), and customer segmentation. Built predictive models using Logistic Regression, Decision Trees, and Random Forest, and developed an interactive Power BI dashboard to visualize key marketing insights and support data-driven decision-making.
